@@ -179,6 +179,32 @@ Lead4Life (green, energetic, bold) and LifeClub (navy/teal, refined, aspirationa
 
 ---
 
+## 🤖 AI Chatbot Integration & Training
+
+One of the more interesting layers of this project was integrating and training an AI chat assistant directly into the website — not just dropping in a widget, but actually making it useful.
+
+The assistant is embedded site-wide and serves as a first point of contact for visitors who want quick answers without navigating through pages. Getting it to that point required deliberate work.
+
+### What Was Done
+
+**Integration**
+The chatbot was embedded across all main pages via a lightweight script in the page footer, ensuring it loads without blocking the critical render path. Placement, trigger behaviour, and visual styling were configured to feel native to the site rather than bolted on.
+
+**Knowledge Base & Training**
+The assistant was trained specifically on Lead4Life's context — the organisation's history, the five market segments, programme types, the LifeClub brand, contact information, and how to handle common visitor queries. Generic out-of-the-box responses were replaced with answers that reflect the actual tone, language, and structure of the organisation.
+
+The training covered:
+- Who Lead4Life is and what they do
+- How to identify which segment a visitor belongs to and route them appropriately
+- How to handle pricing and booking enquiries without quoting specifics
+- When to escalate to a human and how to direct visitors to contact channels
+- LifeClub as a distinct but related offering
+
+**Outcome**
+The result is an assistant that can hold a relevant, on-brand conversation with a school principal, a corporate HR manager, or a young person exploring LifeClub — and know the difference. It reduces friction for visitors who want quick answers and captures engagement that would otherwise leave the site without making contact.
+
+---
+
 ## 📈 Performance & SEO
 
 ### PageSpeed Insights (Google)
