@@ -1,4 +1,5 @@
 # 🌍 Lead4Life & LifeClub — Full Website Build
+<img width="1906" height="1078" alt="image" src="https://github.com/user-attachments/assets/538a9956-d5e0-4858-bbcf-5e7f6f1d7186" />
 
 **🔗 Live site:** [www.lead4life.co.za](https://www.lead4life.co.za)
 
